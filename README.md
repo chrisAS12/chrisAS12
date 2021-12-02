@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisas12&label=Profile%20views&color=0e75b6&style=flat" alt="chrisas12" /> </p>
 
-- 🔭 I’m currently working on **a hidden project.**
+- 🔭 I’m currently working at **DevLead** and for personal reasons am making an advanced **portfolio website** aswell.
 
 - 🌱 I’m currently learning **C++, Python, JavaScript, TypeScript.**
 
