@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-* [Linkedin](https://www.linkedin.com/in/kri%C5%A1j%C4%81nis-m%C4%81rti%C5%86%C5%A1-alliks-904594207/)  
-* [Facebook](https://www.facebook.com/krisjanis.alliks.73/)  
-* [YouTube](https://www.youtube.com/channel/UCgmhRRTQnMZI3tJ-gTqkMXw/videos)  
-* [Stackoverflow](https://stackoverflow.com/users/14080232/chris)  
-* [Portfolio](alliks.xyz)  
+* [Linkedin](https://www.linkedin.com/in/kri%C5%A1j%C4%81nis-m%C4%81rti%C5%86%C5%A1-alliks-904594207/)<br/>
+* [Facebook](https://www.facebook.com/krisjanis.alliks.73/)<br/>  
+* [YouTube](https://www.youtube.com/channel/UCgmhRRTQnMZI3tJ-gTqkMXw/videos)<br/>  
+* [Stackoverflow](https://stackoverflow.com/users/14080232/chris)<br/>  
+* [Portfolio](alliks.xyz)<br/>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
