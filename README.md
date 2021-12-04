@@ -16,11 +16,10 @@
 - ⚡ Fun fact **I love fishing.**
 
 
-## 🤖 Hackathons
+🤖 Hackathons
 * [Recharge Online 2021](https://www.facebook.com/events/187701670004279/) - 1st place team 
 * [VentspilsITC 2020](http://ventspilsitc.com/news/the-international-technology-competition-has-ended-ventspils-it-challenge-2020/) - 1st place team
 * [EU Code Week](https://codeweek.eu/) - 2nd place team during phase 1
-* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +27,7 @@
 * [Facebook](https://www.facebook.com/krisjanis.alliks.73/)
 * [YouTube](https://www.youtube.com/channel/UCgmhRRTQnMZI3tJ-gTqkMXw/videos)
 * [Stackoverflow](https://stackoverflow.com/users/14080232/chris)
+* [Portfolio](alliks.xyz)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
