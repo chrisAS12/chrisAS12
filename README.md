@@ -1,23 +1,33 @@
-<h1 align="center">Heyo 👋, I'm Krišjānis</h1>
+<h1 align="center">Heyo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krišjānis</h1>
 <h3 align="center">A passionate programmer from the Baltics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisas12&label=Profile%20views&color=0e75b6&style=flat" alt="chrisas12" /> </p>
 
-- 🔭 I’m currently working at **DevLead** and for personal reasons am making an advanced **portfolio website** aswell.
+- 🔭 I’m currently working at **DevLead** and for personal reasons am making a **portfolio website** aswell.
 
 - 🌱 I’m currently learning **C++, Python, JavaScript, TypeScript.**
 
-- 👯 I’m looking to collaborate on **web-pages.**
+- 👯 I’m looking to collaborate on **fun projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrisAS12](https://github.com/chrisAS12)
 
 - 📫 Reach me on discord **chriss#8671**
 
-- ⚡ Fun fact **I am a fast learner**
+- ⚡ Fun fact **I love fishing.**
+
+
+## 🤖 Hackathons
+* [Recharge Online 2021](https://www.facebook.com/events/187701670004279/) - 1st place team 
+* [VentspilsITC 2020](http://ventspilsitc.com/news/the-international-technology-competition-has-ended-ventspils-it-challenge-2020/) - 1st place team
+* [EU Code Week](https://codeweek.eu/) - 2nd place team during phase 1
+* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/14080232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14080232" height="30" width="40" /></a>
+* [Linkedin](https://www.linkedin.com/in/kri%C5%A1j%C4%81nis-m%C4%81rti%C5%86%C5%A1-alliks-904594207/)
+* [Facebook](https://www.facebook.com/krisjanis.alliks.73/)
+* [YouTube](https://www.youtube.com/channel/UCgmhRRTQnMZI3tJ-gTqkMXw/videos)
+* [Stackoverflow](https://stackoverflow.com/users/14080232/chris)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
