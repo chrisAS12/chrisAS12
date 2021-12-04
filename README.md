@@ -27,7 +27,7 @@
 * [Facebook](https://www.facebook.com/krisjanis.alliks.73/)<br/>  
 * [YouTube](https://www.youtube.com/channel/UCgmhRRTQnMZI3tJ-gTqkMXw/videos)<br/>  
 * [Stackoverflow](https://stackoverflow.com/users/14080232/chris)<br/>  
-* [Portfolio](alliks.xyz)<br/>  
+* [Portfolio](https://alliks.xyz)<br/>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
