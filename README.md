@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisas12&label=Profile%20views&color=0e75b6&style=flat" alt="chrisas12" /> </p>
 
-- 🌱 I’m currently learning **C++, Python, JavaScript, TypeScript.**
+- 🌱 I’m currently learning **C++, C#, Java, Python, JavaScript, TypeScript.**
+
+- Currently employed full time. 
 
 - 📫 Reach me on discord **chriss#8671**
 
