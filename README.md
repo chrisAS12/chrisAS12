@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C++, C#, Java, Python, JavaScript, TypeScript.**
 
-- Currently employed full time. 
+- Currently employed part-time. 
 
 - 📫 Reach me on discord **chriss#8671**
 
-🤖 Hackathons
+🤖 Some of the Hackathons I've participated in:
 * [Recharge Online 2021](https://www.facebook.com/events/187701670004279/) - 1st place team 
 * [VentspilsITC 2020](http://ventspilsitc.com/news/the-international-technology-competition-has-ended-ventspils-it-challenge-2020/) - 1st place team
 * [EU Code Week](https://codeweek.eu/) - 2nd place team during phase 1
